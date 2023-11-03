@@ -64,11 +64,11 @@ export class EnstoThermostatPlatform implements DynamicPlatformPlugin {
     // or a user-defined array in the platform config.
     const exampleDevices = [
       {
-        exampleUniqueId: "ABCD",
+        exampleUniqueId: "ABCDD",
         exampleDisplayName: "Bedroom",
       },
       {
-        exampleUniqueId: "EFGH",
+        exampleUniqueId: "EFGHH",
         exampleDisplayName: "Kitchen",
       },
     ];
