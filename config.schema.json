@@ -6,7 +6,7 @@
     "type": "object",
     "properties": {
       "name": {
-        "title": "Name",
+        "title": "Thermostat IDs",
         "type": "array",
         "required": true,
         "items": {
