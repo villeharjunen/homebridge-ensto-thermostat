@@ -7,9 +7,12 @@
     "properties": {
       "name": {
         "title": "Name",
-        "type": "string",
+        "type": "array",
         "required": true,
-        "default": "Example Dynamic Platform"
+        "items": {
+          "title": "UUID",
+          "type": "string"
+        }
       }
     }
   }
